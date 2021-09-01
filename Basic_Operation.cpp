@@ -424,11 +424,6 @@ int main(int argc, char const *argv[])
 
   Reverse2(NULL,first);
   display(first);
-
-
-
-
-
-
+  
   return 0;
 }
